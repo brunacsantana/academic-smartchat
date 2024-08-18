@@ -1,1 +1,1 @@
-# smart-chat
+# academic smartchat
